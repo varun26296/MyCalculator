@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="hint_No1">No1</string>
+    <string name="hint_No2">No2</string>
+    <string name="hint_Operand">+</string>
+    <string name="hint_Result">Result</string>
+</resources>
